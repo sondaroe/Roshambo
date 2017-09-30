@@ -14,6 +14,7 @@
 		E7DCFC591F7AC804007744AD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E7DCFC571F7AC804007744AD /* LaunchScreen.storyboard */; };
 		E7DCFC641F7AC804007744AD /* RoshamboTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7DCFC631F7AC804007744AD /* RoshamboTests.swift */; };
 		E7DCFC6F1F7AC804007744AD /* RoshamboUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7DCFC6E1F7AC804007744AD /* RoshamboUITests.swift */; };
+		E7DCFC7F1F7AC9EB007744AD /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7DCFC7E1F7AC9EB007744AD /* ViewController2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		E7DCFC6A1F7AC804007744AD /* RoshamboUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RoshamboUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E7DCFC6E1F7AC804007744AD /* RoshamboUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoshamboUITests.swift; sourceTree = "<group>"; };
 		E7DCFC701F7AC804007744AD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E7DCFC7E1F7AC9EB007744AD /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				E7DCFC4E1F7AC804007744AD /* AppDelegate.swift */,
 				E7DCFC501F7AC804007744AD /* ViewController.swift */,
+				E7DCFC7E1F7AC9EB007744AD /* ViewController2.swift */,
 				E7DCFC521F7AC804007744AD /* Main.storyboard */,
 				E7DCFC551F7AC804007744AD /* Assets.xcassets */,
 				E7DCFC571F7AC804007744AD /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 			files = (
 				E7DCFC511F7AC804007744AD /* ViewController.swift in Sources */,
 				E7DCFC4F1F7AC804007744AD /* AppDelegate.swift in Sources */,
+				E7DCFC7F1F7AC9EB007744AD /* ViewController2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
